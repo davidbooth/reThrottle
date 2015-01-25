@@ -1,0 +1,15 @@
+{
+  "name": "reThrottle",
+  "version": "0.1.0",
+  "description": "Request Throttling Middleware for ExpressJS - Limits a unique ip address to a certain number of requests per second.",
+  "main": "reThrottle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dabo",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^0.12.1",
+    "hiredis": "^0.1.17"
+  }
+}
