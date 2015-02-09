@@ -2,10 +2,12 @@
   "name": "reThrottle",
   "version": "0.1.0",
   "description": "Request Throttling Middleware for ExpressJS - Limits a unique ip address to a certain number of requests per second.",
+  "keywords":["reThrottle", "request throttle", "request throttling", "request limiting", "express request throttle"],
   "main": "reThrottle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "git://github.com/davidbooth/reThrottle.git",
   "author": "dabo",
   "license": "ISC",
   "dependencies": {
