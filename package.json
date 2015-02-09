@@ -1,5 +1,5 @@
 {
-  "name": "reThrottle",
+  "name": "re-throttle",
   "version": "0.1.0",
   "description": "Request Throttling Middleware for ExpressJS - Limits a unique ip address to a certain number of requests per second.",
   "keywords":["reThrottle", "request throttle", "request throttling", "request limiting", "express request throttle"],
