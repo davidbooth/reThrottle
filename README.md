@@ -33,7 +33,7 @@ For example:
 
 ###Examples:
 **Simple Usage:**
-
+    var reThrottle = require('re-throttle');
     app.use(reThrottle.throttle);
     
 Will use the following defaults:
